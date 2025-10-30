@@ -1,6 +1,12 @@
 Meta Ad Performance Analysis Dashboard 
 <img width="1266" height="726" alt="Screenshot 2025-10-29 032527" src="https://github.com/user-attachments/assets/e610293c-7b7c-4ad9-b5fb-e3850574ba0f" />
 
+<img width="1266" height="729" alt="Screenshot 2025-10-29 032618" src="https://github.com/user-attachments/assets/db325ded-66b8-4c8e-8e7f-6d80a37230a6" />
+
+<img width="1269" height="731" alt="Screenshot 2025-10-29 032633" src="https://github.com/user-attachments/assets/e7ba6cf7-74b0-47aa-9739-14c8382a2de5" />
+
+
+
 Developed using Power BI & Excel
 
 This project presents an **end-to-end analysis of Meta (Facebook & Instagram) ad campaigns**, providing deep insights into performance metrics, audience behavior, and optimization opportunities across multiple dimensions — **campaigns, platforms, demographics, time, and ad formats**.
